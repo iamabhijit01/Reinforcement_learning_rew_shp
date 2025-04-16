@@ -1,1 +1,2 @@
-# Reinforcement_learning_rew_shp
+# Reinforcement_learning_reward_shaping
+Final year M.Tech project
